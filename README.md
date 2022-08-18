@@ -7,4 +7,4 @@ A simple weather App application built with HTML, CSS, AND JavaScript.
 ### Technologies Used
 HTML, CSS, and Javascript. 
 
-<img src="https://github.com/nuelladev/Weather-web-app/blob/main/Weather%20App/images/Screenshot%20(13).png">
+<img src="https://github.com/nuelladev/JavaScript-Quiz-App-/blob/main/Quiz%20app/images/Screenshot%20(17).png">
