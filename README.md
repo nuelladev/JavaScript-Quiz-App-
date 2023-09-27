@@ -2,7 +2,7 @@
 
 
 ## Description. 
-A simple weather App application built with HTML, CSS, AND JavaScript.  
+A simple quiz App  built with HTML, CSS, AND JavaScript.  
 
 ### Technologies Used
 HTML, CSS, and Javascript. 
